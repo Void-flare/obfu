@@ -1,4 +1,4 @@
-# ObfuTool
+# ObfuTool   | made by VoidFlare
 
 ObfuTool is a powerful, lightweight, and open-source obfuscation and encryption tool for .NET assemblies and generic files. It provides a robust set of features to protect your intellectual property properly.
 
