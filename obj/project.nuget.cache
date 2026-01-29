@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "r7Mjo9WDKOc=",
+  "success": true,
+  "projectFilePath": "D:\\Project-Sentinel\\c#\\obfu\\ObfuTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shado\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.21\\microsoft.net.illink.tasks.8.0.21.nupkg.sha512",
+    "C:\\Users\\shado\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\shado\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.21\\microsoft.netcore.app.runtime.win-x64.8.0.21.nupkg.sha512",
+    "C:\\Users\\shado\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.21\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.21.nupkg.sha512",
+    "C:\\Users\\shado\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.21\\microsoft.aspnetcore.app.runtime.win-x64.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
